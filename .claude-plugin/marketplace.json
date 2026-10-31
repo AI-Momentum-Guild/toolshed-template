@@ -1,0 +1,12 @@
+{
+  "name": "team-toolshed",
+  "owner": { "name": "Our team" },
+  "description": "Team toolshed: the skills the whole team shares",
+  "plugins": [
+    {
+      "name": "team-toolshed",
+      "source": "./",
+      "description": "Every skill our team shares"
+    }
+  ]
+}
