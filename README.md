@@ -13,6 +13,8 @@ Follow the setup page you were given. In short:
 3. Set the toolshed to Installed by default.
 4. Start a new chat and say "run the toolshed check".
 
+Give your colleagues `USERS-GUIDE.md`: one page on using the toolshed. Builders who use Claude Code with AI Dev Foundations also run the `toolshed-connect` skill once, which adds the config file those skills need.
+
 ## Rules for this repository
 
 - One folder per skill in `skills`, each with a `SKILL.md`
